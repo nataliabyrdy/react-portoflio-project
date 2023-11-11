@@ -1,4 +1,4 @@
-.hero-container {
+.hero-section {
     box-sizing: border-box;
     width: 100%;
     height: 100vh;
@@ -12,7 +12,29 @@
     justify-content: center;
 }
 
-.hero-header{
-    font-size: 70px;
-    font-weight: 300;
+.hero-container{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
+
+.hero-h1{
+    font-size: 110px;
+    font-weight: 200;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+.hero-h2{
+    font-size: 60px;
+    font-weight: 200;
+    font-style: italic;
+    margin-top: 20px;
+    border: 0.1px dotted #fff;
+    padding: 15px;
+}
+
+
+
+

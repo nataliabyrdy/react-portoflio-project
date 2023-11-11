@@ -9,12 +9,15 @@ const Hero = () => {
     };
 
     return (
-        <div className='hero-container'>
-            <h1 className='hero-header'>
-                {t('header')}
-            </h1>
-            <h2>
-            </h2>
+        <div className='hero-section'>
+            <div className='hero-container'>
+                <h1 className='hero-h1'>
+                    {t('header.h1')}
+                </h1>
+                <h2 className='hero-h2'>
+                    {t('header.h2')}
+                </h2>
+            </div>
         </div>
 
     )
