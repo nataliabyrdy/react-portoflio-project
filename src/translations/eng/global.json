@@ -1,0 +1,12 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "concerts": "Concerts",
+        "calendar": "Calendar",
+        "contact": "Contact"
+    },
+
+    "header": "Łukasz Byrdy"
+  
+}

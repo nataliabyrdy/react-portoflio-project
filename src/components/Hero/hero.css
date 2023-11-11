@@ -1,0 +1,17 @@
+.hero-container {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../assets/img/cover.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-header{
+    font-size: 40px;
+}
