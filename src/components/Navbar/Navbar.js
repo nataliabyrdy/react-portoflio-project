@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 const Navbar = () => {
     const [t, i18n] = useTranslation('global');
 
-    const handleChangeLanguage = (lang: string) => {
+    const handleChangeLanguage = (lang) => {
         i18n.changeLanguage(lang);
     };
 
@@ -15,16 +15,17 @@ const Navbar = () => {
                     <img className='logo' src={require('../../assets/img/logo.png')} alt='logo' />
                 </div>
                 <ul>
-                    <li><a href='#home'>{t('header')}</a></li>
-                    <li><a href='#about'>O mnie</a></li>
-                    <li><a href='#concerts'>Koncerty</a></li>
-                    <li><a href='#calendar'>Kalendarz</a></li>
-                    <li><a href='#contact'>Kontakt</a></li>
+                    <li><a href='#home'>{t('navbar.home')}</a></li>
+                    <li><a href='#about'>{t('navbar.about')}</a></li>
+                    <li><a href='#concerts'>{t('navbar.concerts')}</a></li>
+                    <li><a href='#calendar'>{t('navbar.calendar')}</a></li>
+                    <li><a href='#contact'>{t('navbar.contact')}</a></li>
                 </ul>
-
-                <button onClick={() => handleChangeLanguage("pl")}>PL</button>
-                <button onClick={() => handleChangeLanguage("en")}>EN</button>
-                <button onClick={() => handleChangeLanguage("de")}>DE</button>
+                <div className='btn-lang-container'>
+                    <button className='btn-lang' onClick={() => handleChangeLanguage("en")}>EN</button>
+                    <button className='btn-lang' onClick={() => handleChangeLanguage("pl")}>PL</button>
+                    <button className='btn-lang' onClick={() => handleChangeLanguage("de")}>DE</button>
+                </div>
             </div>
         </div>
     )

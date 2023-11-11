@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 const Hero = () => {
     const [t, i18n] = useTranslation('global');
 
-    const handleChangeLanguage = (lang: string) => {
+    const handleChangeLanguage = (lang) => {
         i18n.changeLanguage(lang);
     };
 

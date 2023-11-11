@@ -14,7 +14,7 @@ import global_de from './translations/de/global.json';
 
 i18next.init({
   interpolation: { escapeValue: false }, // React natywnie uciekał wartości tekstów
-  lng: 'pl', // domyślny język
+  lng: 'en', // domyślny język
   resources: {
     pl: {
       global: global_pl,
