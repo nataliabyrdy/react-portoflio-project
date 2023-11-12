@@ -13,6 +13,7 @@
 
     "about": {
         "h3": "O mnie",
-        "about-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non lorem nisi. Curabitur non vehicula ipsum, et elementum nisi. Ut porta nisi massa, non pellentesque nibh ornare eu. Etiam molestie venenatis turpis non dapibus. Etiam a condimentum justo, ac fermentum erat. In ex dolor, malesuada in dui et, blandit consequat metus. Integer lobortis euismod dictum. Maecenas suscipit ante efficitur nulla molestie vestibulum. Nam auctor, justo at suscipit hendrerit, ipsum risus vulputate mauris, sed laoreet neque orci at tellus. Fusce at gravida orci. Cras justo sem, sagittis a orci eget, condimentum gravida ex. Quisque egestas nulla eu libero tincidunt, nec suscipit ex feugiat. Nulla aliquet, arcu vel dictum varius, nisi est dictum lorem, sed ullamcorper lectus velit ac nunc."
+        "about-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non lorem nisi. Curabitur non vehicula ipsum, et elementum nisi. Ut porta nisi massa, non pellentesque nibh ornare eu. Etiam molestie venenatis turpis non dapibus. Etiam a condimentum justo, ac fermentum erat. In ex dolor, malesuada in dui et, blandit consequat metus. Integer lobortis euismod dictum. Maecenas suscipit ante efficitur nulla molestie vestibulum. Nam auctor, justo at suscipit hendrerit, ipsum risus vulputate mauris, sed laoreet neque orci at tellus. Fusce at gravida orci. Cras justo sem, sagittis a orci eget, condimentum gravida ex. Quisque egestas nulla eu libero tincidunt, nec suscipit ex feugiat. Nulla aliquet, arcu vel dictum varius, nisi est dictum lorem, sed ullamcorper lectus velit ac nunc.",
+        "about-btn": "Ściągnij"
     }
 }

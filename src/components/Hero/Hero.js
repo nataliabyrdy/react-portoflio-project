@@ -1,5 +1,9 @@
 import './hero.css'
 import { useTranslation } from 'react-i18next';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 const Hero = () => {
     const [t, i18n] = useTranslation('global');
@@ -9,7 +13,7 @@ const Hero = () => {
     };
 
     return (
-        <div className='hero-section'>
+        <div id='hero-section' className='hero-section'>
             <div className='hero-container'>
                 <h1 className='hero-h1'>
                     {t('header.h1')}
@@ -17,6 +21,11 @@ const Hero = () => {
                 <h2 className='hero-h2'>
                     {t('header.h2')}
                 </h2>
+                <div className='icon-container'>
+                    <a href='https://facebook.com' target='_blank'><FontAwesomeIcon icon={faFacebook} className='icon-style' /></a>
+                    <a href='https://www.youtube.com/' target='_blank'><FontAwesomeIcon icon={faYoutube} className='icon-style'></FontAwesomeIcon></a>
+                    <a href='https://www.twitter.com/' target='_blank'><FontAwesomeIcon icon={faTwitter} className='icon-style'></FontAwesomeIcon></a>
+                </div>
             </div>
         </div>
 

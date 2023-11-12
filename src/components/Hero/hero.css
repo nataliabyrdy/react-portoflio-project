@@ -35,6 +35,34 @@
     padding: 15px;
 }
 
+.font-icon{
+    font-size: 20px;
+    color: #fff;
+}
+
+.icon-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.icon-container a:visited{
+    color: #fff;
+}
+
+.icon-style{
+    font-size: 30px;
+    margin: 10px
+}
+
+.icon-style:hover{
+   color: #9b793e;
+   cursor: pointer;
+   transition: color 0.3s ease-in-out;
+}
+
+.icon-style-btn{
+    font-size: 12px;
+}
 
 
 

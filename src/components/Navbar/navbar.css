@@ -32,13 +32,13 @@
   padding: 14px 16px;
   text-decoration: none;
   color: #9b793e;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease;
 }
 
 .nav-section li a:hover {
   background-color: #f8f7f2;
   color: #45464B;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease;
 }
 
 .nav-section li a:active {
@@ -56,7 +56,7 @@
   padding: 10px 20px;
   cursor: pointer;
   font-size: 12px;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease-in-out;
   border-right: 1px solid #9b793e;
 }
 

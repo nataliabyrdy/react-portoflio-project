@@ -1,5 +1,7 @@
 import './about.css'
 import { useTranslation } from 'react-i18next';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowDown } from '@fortawesome/free-solid-svg-icons';
 
 const About = () => {
     const [t, i18n] = useTranslation('global');
@@ -9,7 +11,7 @@ const About = () => {
     };
 
     return (
-        <div className='about-section'>
+        <div id='about-section' className='about-section'>
             <div className='about-container'>
                 <h3 className='h-title'>
                     {t('about.h3')}
@@ -18,6 +20,7 @@ const About = () => {
                     <img className='about-img' src={require('../../assets/img/DSC_8726.jpg')} alt='image, portrait' />
                     <p className='about-text'>
                         {t('about.about-text')}
+                        <button className='about-btn'>{t('about.about-btn')}<FontAwesomeIcon icon={faArrowDown} className='icon-style-btn'></FontAwesomeIcon></button>
                     </p>
                 </div>
             </div>
