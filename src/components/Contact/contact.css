@@ -51,15 +51,14 @@
 }
 
 .title-contact{
-    margin-top: 70px;
-    margin-bottom: 70px;
-    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 30px;
     font-weight: 200;
-    font-family: 'BellagiaDisplay';
 }
 
 .contact-h{
-    font-size: 35px;
+    font-size: 22px;
     font-weight: 300;
     color: #9b793e;
 }
@@ -70,12 +69,12 @@
 }
 
 .contact-p{
-    font-size: 25px;
+    font-size: 16px;
     font-weight: 200px;
 }
 
 .icon-contact{
-    font-size: 25px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
     margin-right: 10px;

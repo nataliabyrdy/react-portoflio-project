@@ -22,7 +22,7 @@ const Hero = () => {
                     {t('header.h2')}
                 </h2>
                 <div className='icon-container'>
-                    <a href='https://m.facebook.com/p/%C5%81ukasz-Byrdy-pianist-100064251930309/' target='_blank'><FontAwesomeIcon icon={faFacebook} className='icon-style' /></a>
+                    <a href='https://www.facebook.com/lukaszbyrdy' target='_blank'><FontAwesomeIcon icon={faFacebook} className='icon-style' /></a>
                     <a href='https://www.youtube.com/@ukaszbyrdy9055' target='_blank'><FontAwesomeIcon icon={faYoutube} className='icon-style'></FontAwesomeIcon></a>
                     <a href='https://www.instagram.com/lukaszbyrdy/' target='_blank'><FontAwesomeIcon icon={faInstagram} className='icon-style insta'></FontAwesomeIcon></a>
                 </div>

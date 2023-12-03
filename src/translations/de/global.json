@@ -3,8 +3,8 @@
     "home": "Startseite",
     "about": "Über mich",
     "discography": "Diskographie",
-    "concerts": "Media",
-    "calendar": "Nachrichten",
+    "news": "Nachrichten",
+    "media": "Media",
     "contact": "Kontakt"
   },
   "header": {
@@ -20,10 +20,11 @@
     "about-btn": "Download"
   },
   "news": {
-    "h3-title": "Media"
+    "h3-title": "Nachrichten",
+    "info": "Neuigkeiten folgen in Kürze..."
   },
   "media": {
-    "h3-t": "Nachrichten"
+    "h3-t": "Media"
   },
   "contact": {
     "h3-text": "Kontakt",
@@ -36,6 +37,7 @@
     "altra1": "Leszek Sojka – violin",
     "altra2": "Jacek Dzwonowski – violin",
     "altra3": "Aleksandra Marko-Lech – viola",
-    "altra4": "viola Michał Lech – cello"
+    "altra4": "viola Michał Lech – cello",
+    "playlist": "Sie müssen nur die Wiedergabe starten"
   }
 }

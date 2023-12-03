@@ -1,0 +1,19 @@
+.swiper-button-prev,
+.swiper-button-next {
+    color: #9b793e !important;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: #fff;
+}
+
+.swiper{
+    padding: 100px;
+    margin-bottom: 100px;
+}
+
+.video-text{
+    font-size: 20px;
+    color: #c0c0c0;
+    font-style: italic;
+}

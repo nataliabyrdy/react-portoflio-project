@@ -1,5 +1,5 @@
 #disc {
-    background-image: url('../../assets/img/disc-cover.jpg');
+    background-image: url('../../assets/img/cover2.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -43,11 +43,14 @@
 
 .cd-flex {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .cd-container {
     padding-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .cd-img {
@@ -58,26 +61,26 @@
 
 .text-c {
     color: #fff;
-    padding-top: 70px;
+    padding-top: 30px;
     text-align: justify;
     margin-left: 10px;
     margin-top: 0;
     font-weight: 400;
     margin-top: 10px;
-    font-size: 25px;
+    font-size: 17px;
     color: #c0c0c0;
+    line-height: 30px;
 }
 
 .text-c2 {
     color: #c0c0c0;
     padding-top: 30px;
-    text-align: center;
 }
 
 .altra-volta {
     display: block;
     color: #9b793e;
-    font-family: "BellagiaDisplay";
+    font-family: "PerpetuaTitlingMTLight2";
     font-weight: bold;
     font-size: 20px;
 }
@@ -87,4 +90,50 @@
     font-family: "Roboto";
     color: #c0c0c0;
     font-weight: 200;
+    font-size: 18px;
 }
+
+.audio-section {
+    margin-top: 30px;
+}
+
+.audio-clips {
+    display: block;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.title-playlist{
+    color: #9b793e;
+    font-size: 20px;
+    font-weight: 300;
+    margin-block: 0!important;
+    text-align: start;
+}
+
+.title-playlist2{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 200;
+    font-style: italic;
+    text-align: start;
+}
+
+.audio-text{
+    color: #9b793e;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    text-align: left;
+}
+
+.audio-small-section{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.line{
+    width: 700px;
+}
+

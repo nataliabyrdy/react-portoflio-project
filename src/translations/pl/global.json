@@ -3,8 +3,8 @@
         "home": "Strona Główna",
         "about": "O mnie",
         "discography": "Dyskografia",
-        "concerts": "Media",
-        "calendar": "Wiadomości",
+        "news": "Wiadomości",
+        "media": "Media",
         "contact": "Kontakt"
     },
     "header": {
@@ -20,10 +20,11 @@
         "about-btn": "Ściągnij"
     },
     "news": {
-        "h3-title": "Media"
+        "h3-title": "Wiadomości",
+        "info": "Informacje oraz nowości pojawią się wkrótce..."
     },
     "media": {
-        "h3-t": "Wiadomości"
+        "h3-t": "Media"
     },
     "contact": {
         "h3-text": "Kontakt",
@@ -36,6 +37,7 @@
         "altra1": "Leszek Sojka – skrzypce",
         "altra2": "Jacek Dzwonowski – skrzypce",
         "altra3": "Aleksandra Marko-Lech – altówka",
-        "altra4": "viola Michał Lech – wiolonczela"
+        "altra4": "viola Michał Lech – wiolonczela",
+        "playlist": "Na płycie znajduja się następujące utwory"
     }
 }
