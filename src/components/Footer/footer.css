@@ -1,7 +1,9 @@
-.Footer-section{
+.footer{
     background-color: #fff;
-}
-
-.Text-footer{
-    float: left;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
 }

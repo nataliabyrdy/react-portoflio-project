@@ -1,9 +1,9 @@
 import './hero.css'
 import { useTranslation } from 'react-i18next';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook} from '@fortawesome/free-brands-svg-icons';
 import { faYoutube } from '@fortawesome/free-brands-svg-icons';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 const Hero = () => {
     const [t, i18n] = useTranslation('global');
@@ -22,9 +22,9 @@ const Hero = () => {
                     {t('header.h2')}
                 </h2>
                 <div className='icon-container'>
-                    <a href='https://facebook.com' target='_blank'><FontAwesomeIcon icon={faFacebook} className='icon-style' /></a>
-                    <a href='https://www.youtube.com/' target='_blank'><FontAwesomeIcon icon={faYoutube} className='icon-style'></FontAwesomeIcon></a>
-                    <a href='https://www.twitter.com/' target='_blank'><FontAwesomeIcon icon={faTwitter} className='icon-style'></FontAwesomeIcon></a>
+                    <a href='https://m.facebook.com/p/%C5%81ukasz-Byrdy-pianist-100064251930309/' target='_blank'><FontAwesomeIcon icon={faFacebook} className='icon-style' /></a>
+                    <a href='https://www.youtube.com/@ukaszbyrdy9055' target='_blank'><FontAwesomeIcon icon={faYoutube} className='icon-style'></FontAwesomeIcon></a>
+                    <a href='https://www.instagram.com/lukaszbyrdy/' target='_blank'><FontAwesomeIcon icon={faInstagram} className='icon-style insta'></FontAwesomeIcon></a>
                 </div>
             </div>
         </div>

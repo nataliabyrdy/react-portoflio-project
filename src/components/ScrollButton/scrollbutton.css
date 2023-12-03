@@ -1,0 +1,20 @@
+.icon-up{
+    color: #c0c0c0;
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border: #9b793e 1px solid;
+    padding: 10px;
+    border-radius: 100%;
+    transition: all ease-in-out 0.3s;
+    opacity: 0.8;
+}
+
+.icon-up:hover{
+    cursor: pointer;
+    background-color: #9b793e;
+    color: #161615;
+}

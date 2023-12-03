@@ -11,17 +11,28 @@ const About = () => {
     };
 
     return (
-        <div id='about-section' className='about-section'>
+        <div id='about-section' className='main about-section'>
             <div className='about-container'>
                 <h3 className='h-title'>
                     {t('about.h3')}
                 </h3>
                 <div className='img-container'>
-                    <img className='about-img' src={require('../../assets/img/DSC_8726.jpg')} alt='image, portrait' />
-                    <p className='about-text'>
+                    <img className='about-img' src={require('../../assets/img/DSC_8981.jpg')} alt='image, portrait' />
+                    {/* <p className='about-text'>
                         {t('about.about-text')}
-                        <button className='about-btn'>{t('about.about-btn')}<FontAwesomeIcon icon={faArrowDown} className='icon-style-btn'></FontAwesomeIcon></button>
-                    </p>
+                    </p> */}
+                    <p className='about-text'>
+                        <span>{t('header.h1')}</span>{t('about.about-text')}</p>
+                        <p className='about-text'>
+                        {t('about.about-text1')}
+                        </p>
+                        <p className='about-text'>
+                        {t('about.about-text2')}
+                        </p>
+                        <p className='about-text'>
+                        {t('about.about-text3')}
+                        </p>
+                      
                 </div>
             </div>
         </div>

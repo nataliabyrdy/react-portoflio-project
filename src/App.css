@@ -1,6 +1,12 @@
+@font-face {
+  font-family: "BellagiaDisplay";
+  src: url('assets/fonts/BellagiaDisplay-Thin.ttf');
+}
+
 body{
   font-family: 'Roboto', sans-serif;
   background-color:#161615; 
+  box-sizing: border-box;
 }
 .App {
   text-align: center;

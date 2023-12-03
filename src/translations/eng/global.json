@@ -2,20 +2,40 @@
     "navbar": {
         "home": "Home",
         "about": "About",
-        "concerts": "Concerts",
-        "calendar": "Calendar",
+        "discography": "Discography",
+        "concerts": "Media",
+        "calendar": "News",
         "contact": "Contact"
     },
-
     "header": {
         "h1": "Łukasz Byrdy",
         "h2": "the Pianist"
     },
-
     "about": {
         "h3": "About me",
-        "about-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non lorem nisi. Curabitur non vehicula ipsum, et elementum nisi. Ut porta nisi massa, non pellentesque nibh ornare eu. Etiam molestie venenatis turpis non dapibus. Etiam a condimentum justo, ac fermentum erat. In ex dolor, malesuada in dui et, blandit consequat metus. Integer lobortis euismod dictum. Maecenas suscipit ante efficitur nulla molestie vestibulum. Nam auctor, justo at suscipit hendrerit, ipsum risus vulputate mauris, sed laoreet neque orci at tellus. Fusce at gravida orci. Cras justo sem, sagittis a orci eget, condimentum gravida ex. Quisque egestas nulla eu libero tincidunt, nec suscipit ex feugiat. Nulla aliquet, arcu vel dictum varius, nisi est dictum lorem, sed ullamcorper lectus velit ac nunc.",
+        "about-text": " is one of the most outstanding pianists of the younger generation, who during his concert career spanning over 10 years, has performed several hundred times in most European countries, as well as in the USA, Canada, China, and the United Arab Emirates.",
+        "about-text1": "Born in Katowice, he is a laureate of over 20 international piano competitions, including winning top prizes at the Fryderyk Chopin International Piano Competition in Beijing and at the International Piano Competition in Hanover. He has also been awarded at competitions in Switzerland, Italy, Malta, and Poland. Following enthusiastically received performances at the 17th Fryderyk Chopin International Piano Competition in Warsaw, his career noticeably gained momentum. Łukasz Byrdy is also one of the ten semifinalists of the prestigious Honens International Piano Competition in Calgary (2022) and a recipient of numerous scholarships and artistic awards, including multiple scholarships from the Polish Ministry of Culture and National Heritage, and the &quot;Young Poland&quot; award given to the most outstanding artists of the young generation. The pianist has been frequently invited as a soloist and chamber musician to music festivals in Vilnius (Christopher Festival in the Bernardine Park), Paris („Chopin au jardin” and „Chopin a Paris” at the Orangery in the Bagatelle Park), Aspen (Music Festival and School) and Moscow (Polish-Russian Music Festival). He has performed in Warsaw at the „Chopin and His Europe” festival and the Ignacy Jan Paderewski International Festival, the &quot;Chopin in the Colors of Autumn&quot; festival in Ostrów Wielkopolski, the &quot;Silesian Quartet and its Guests&quot; Chamber Music Festival in Katowice, the International Fryderyk Chopin Festival in Duszniki Zdrój and the Jerzy Waldorff Festival in Radziejowice. The artist has performed in the world&#39;s major music centers, presenting his interpretations on prestigious stages such as Harris Concert Hall in Aspen (USA), Bella Concert Hall and Rozsa Centre in Calgary (Canada), Orangery in the Bagatelle Park in Paris (France), Aula of the Sapienza University in Rome (Italy), Pushkin Museum and Scriabin Museum in Moscow (Russia), concert halls of music conservatories in Beijing and Chengdu (China) and Tianfu Center in Chengdu (China). In Poland he has performed in numerous philharmonic halls, as well as in the Concert Hall of the National Polish Radio Symphony Orchestra (NOSPR) in Katowice, the Lutosławski Polish Radio Concert Studio in Warsaw, the European Music Center in Lusławice, the Holy Cross Church in Warsaw, the Fryderyk Chopin Museum in Warsaw, the Birthplace of Fryderyk Chopin in Żelazowa Wola, the Royal Castle in Warsaw, the Royal Theater and the Palace on the Isle in the Royal Łazienki Park in Warsaw.",
+        "about-text2": "Łukasz Byrdy graduated from the Universität der Künste in Berlin and the Ignacy Jan Paderewski Academy of Music in Poznań and is currently a faculty in the piano department of the Ignacy Jan Paderewski Academy of Music in Poznań. He conducts numerous courses and masterclasses in Poland and abroad, collaborating with, among others: Mount Royal University in Calgary, the University of Agder in Kristiansand, the Estonian Academy of Music and Theater in Tallinn and the Sichuan Conservatory of Music in Chengdu. In his pedagogical career, he has been invited several times to conduct masterclasses on Morningside Music Bridge - one of the most prestigious music summer programs for the most talented young musicians from around the world, that takes place annually at the New England Conservatory of Music in Boston. Łukasz Byrdy has made numerous recordings for radio and television. His performances have been broadcast by Polish Radio, Polish Television, Lithuanian National Radio and Television, Central Chinese Television CCTV, and Sichuan Radio and Television.",
+        "about-text3": "In 2017, with support of the Piotr Kler Foundation, his debut album with piano concertos by F. Chopin and W. A. Mozart was released.",
         "about-btn": "Download"
+    },
+    "news": {
+        "h3-title": "Media"
+    },
+    "media": {
+        "h3-t": "News"
+    },
+    "contact": {
+        "h3-text": "Contact",
+        "impresario": "Impresario"
+    },
+    "disc": {
+        "h3-tt": "Discography",
+        "cd-text": "In 2017, the debut album of Łukasz Byrdy featuring concerts by F. Chopin and W. A. Mozart, recorded with the Altra Volta Quartet, was released. The recordings were made in the Polish Radio Studio in Katowice on January 16-17, 2016, and in the Witold Lutosławski S1 Concert Studio in Warsaw on February 14-15, 2016.",
+        "altra": "ALTRA VOLTA QUARTET:",
+        "altra1": "Leszek Sojka – violin",
+        "altra2": "Jacek Dzwonowski – violin",
+        "altra3": "Aleksandra Marko-Lech – viola",
+        "altra4": "viola Michał Lech – cello"
     }
-  
 }

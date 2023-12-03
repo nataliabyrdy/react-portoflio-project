@@ -1,0 +1,90 @@
+#disc {
+    background-image: url('../../assets/img/disc-cover.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.disc-container {
+    width: 70%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 70px;
+
+}
+
+.h-title {
+    font-size: 70px;
+    font-weight: 100;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    margin: 0;
+    margin-bottom: 70px;
+}
+
+.h-title::after {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 90px;
+    height: 90px;
+    background-color: #9b793e;
+    border-radius: 50%;
+    margin-top: 5px;
+    content: "";
+    z-index: -1;
+    opacity: 0.4;
+}
+
+.cd-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.cd-container {
+    padding-top: 70px;
+}
+
+.cd-img {
+    width: 500px;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.text-c {
+    color: #fff;
+    padding-top: 70px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-top: 0;
+    font-weight: 400;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #c0c0c0;
+}
+
+.text-c2 {
+    color: #c0c0c0;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.altra-volta {
+    display: block;
+    color: #9b793e;
+    font-family: "BellagiaDisplay";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.a1 {
+    display: block;
+    font-family: "Roboto";
+    color: #c0c0c0;
+    font-weight: 200;
+}

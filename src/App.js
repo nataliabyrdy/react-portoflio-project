@@ -2,10 +2,12 @@ import './App.css';
 import Hero from './components/Hero/Hero';
 import Navbar from './components/Navbar/Navbar';
 import About from './components/About/About';
-import Concerts from './components/Concerts/Concerts';
-import Calendar from './components/Calendar/Calendar';
+import Disc from './components/Disc/Disc';
+import News from './components/News/News';
+import Media from './components/Media/Media';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
+import ScrollButton from './components/ScrollButton/ScrollButton';
 
 
 function App() {
@@ -13,12 +15,13 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
+      <ScrollButton />
       <About />
-      {/*
-      <Concerts />
-      <Calendar />
+      <Disc />
+      <Media />
+      <News />
       <Contact />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 }

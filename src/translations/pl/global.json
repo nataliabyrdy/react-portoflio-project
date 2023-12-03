@@ -1,19 +1,41 @@
 {
     "navbar": {
-        "home": "Storna Główna",
+        "home": "Strona Główna",
         "about": "O mnie",
-        "concerts": "Koncerty",
-        "calendar": "Kalendarz",
+        "discography": "Dyskografia",
+        "concerts": "Media",
+        "calendar": "Wiadomości",
         "contact": "Kontakt"
     },
     "header": {
         "h1": "Łukasz Byrdy",
         "h2": "Pianista"
     },
-
     "about": {
         "h3": "O mnie",
-        "about-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non lorem nisi. Curabitur non vehicula ipsum, et elementum nisi. Ut porta nisi massa, non pellentesque nibh ornare eu. Etiam molestie venenatis turpis non dapibus. Etiam a condimentum justo, ac fermentum erat. In ex dolor, malesuada in dui et, blandit consequat metus. Integer lobortis euismod dictum. Maecenas suscipit ante efficitur nulla molestie vestibulum. Nam auctor, justo at suscipit hendrerit, ipsum risus vulputate mauris, sed laoreet neque orci at tellus. Fusce at gravida orci. Cras justo sem, sagittis a orci eget, condimentum gravida ex. Quisque egestas nulla eu libero tincidunt, nec suscipit ex feugiat. Nulla aliquet, arcu vel dictum varius, nisi est dictum lorem, sed ullamcorper lectus velit ac nunc.",
+        "about-text": " jest jednym z najwybitniejszych pianistów młodego pokolenia, który w trakcie trwającej już ponad 10 lat kariery koncertowej, wystąpił kilkaset razy z recitalami i koncertami w większości państw Europy, a także w USA, Kanadzie, Chinach i Zjednoczonych Emiratach Arabskich.",
+        "about-text1": "Urodzony w Katowicach pianista jest laureatem ponad 20 międzynarodowych konkursów pianistycznych, w tym zdobywcą czołowych nagród na Międzynarodowym Konkursie Pianistycznym im. Fryderyka Chopina w Pekinie oraz Międzynarodowym Konkursie Pianistycznym w Hanowerze. Nagradzany był również na konkursach w Szwajcarii, Włoszech, Malcie i Polsce. Po entuzjastycznie przyjętych przez publiczność i krytyków muzycznych występach na XVII Międzynarodowym Konkursie Pianistycznym im. Fryderyka Chopina w Warszawie, kariera pianisty wyraźnie nabrała tempa. Łukasz Byrdy jest również jednym z dziesięciu półfinalistów prestiżowego Honens International Piano Competition w Calgary (2022), a także laureatem licznych stypendiów i nagród artystycznych, w tym wielokrotnym stypendystą Ministra Kultury i Dziedzictwa Narodowego oraz zdobywcą przyznawanej najwybitniejszym polskim artystom młodego pokolenia nagrody „Młoda Polska”. Pianista był wielokrotnie zapraszany w roli solisty i kameralisty na festiwale muzyczne w Wilnie („Christopher Festival”w Parku Bernardyńskim), w Paryżu („Chopin au jardin” oraz „Chopin a Paris” w Oranżerii w Parku Bagatelle), w Aspen („Music Festival and School”), w Moskwie (Polsko-Rosyjski Festiwal Muzyczny). Wystąpił w Warszawie na festiwalach „Chopin i Jego Europa” oraz Międzynarodowym Festiwalu Ignacego Jana Paderewskiego, na posiadającym bogatą tradycję, odbywającym się w Ostrowie Wielkopolskim festiwalu „Chopin w barwach jesieni”, na Festiwalu Muzyki Kameralnej „Kwartet Śląski i jego goście” w Katowicach, na Międzynarodowym Festiwalu Chopinowskim w Dusznikach Zdroju oraz na Festiwalu im. Jerzego Waldorffa w Radziejowicach. Artysta wielokrotnie koncertował w największych ośrodkach muzycznych świata, prezentując swoje interpretacje na scenach tak prestiżowych sal jak m.in. Harris Concert Hall w Aspen (USA), Bella Concert Hall w Calgary (Kanada), Rozsa Centre w Calgary (Kanada), Oranżeria w Parku Bagatelle w Paryżu (Francja), Aula Uniwersytetu Sapienza w Rzymie (Włochy), Muzeum Puszkina oraz Muzeum Scriabina w Moskwie (Rosja), salach koncertowych konserwatoriów muzycznych w Pekinie i Chengdu (Chiny) oraz Tianfu Center w Chengdu (Chiny). Wystąpił w większości polskich filharmonii, jak również Sali Koncertowej Narodowej Orkiestry Symfonicznej Polskiego Radia (NOSPR) w Katowicach, Studiu Koncertowym Polskiego Radia im. W. Lutosławskiego w Warszawie, Sali Koncertowej Europejskiego Centrum Muzyki im. Krzysztofa Pendereckiego w Lusławicach, Sali Lustrzanej Zamku w Pszczynie, Kościele Świętego Krzyża w Warszawie, Muzeum Fryderyka Chopina w Warszawie, Domu Urodzenia Fryderyka Chopina w Żelazowej Woli, Zamku Królewskim w Warszawie, Sali Ratuszowej Pałacu Kultury i Nauki w Warszawie, Teatrze Królewskim i Pałacu na Wyspie w Łazienkach Królewskich w Warszawie.",
+        "about-text2": "Łukasz Byrdy jest absolwentem Universität der Künste w Berlinie i Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu. Od lat prowadzi bogatą działalność pedagogiczną, będąc na co dzień wykładowcą katedry fortepianu w Akademii Muzycznej im. Ignacego Jana Paderewskiego w Poznaniu. Prowadzi liczne kursy i warsztaty w Polsce i za granicą, gdzie współpracował z m.in. Mount Royal University w Calgary, University of Agder w Kristiansand, Estońską Akademią Muzyki i Teatru w Tallinnie, Sychuańskim Konserwatorium Muzycznym w Chengdu. W swojej karierze pedagogicznej był kilkukrotnie zapraszany do prowadzenia lekcji mistrzowskich w ramach prestiżowych warsztatów muzycznych dla najzdolniejszej młodzieży z całego świata „Morningside Music Bridge” na New England Conservatory of Music w Bostonie. Pianista dokonywał wielokrotnie nagrań dla radia i telewizji, a jego występy transmitowane były przez Polskie Radio, Telewizję Polską, a także Litewskie Narodowe Radio i Telewizję, Centralną Telewizję Chińska CCTV oraz radio i telewizję sychuańską.",
+        "about-text3": "W 2017 roku dzięki wsparciu Fundacji Piotra Klera ukazała się debiutancka płyta artysty z koncertami fortepianowymi F. Chopina i W. A. Mozarta.",
         "about-btn": "Ściągnij"
+    },
+    "news": {
+        "h3-title": "Media"
+    },
+    "media": {
+        "h3-t": "Wiadomości"
+    },
+    "contact": {
+        "h3-text": "Kontakt",
+        "impresario": "Impresariat"
+    },
+    "disc": {
+        "h3-tt": "Dyskografia",
+        "cd-text": "W 2017 roku ukazała się debiutancka płyta Łukasza Byrdy z koncertami F. Chopina oraz W. A. Mozarta nagrana wraz z kwartetem Altra Volta. Nagrania zostały zrealizowane w Studio Polskiego Radia Katowice w dniach 16-17.01.2016 oraz w Studio Koncertowym S1 im. Witolda Lutosławskiego w Warszawie w dniach 14-15.02.2016.",
+        "altra": "ALTRA VOLTA QUARTET:",
+        "altra1": "Leszek Sojka – skrzypce",
+        "altra2": "Jacek Dzwonowski – skrzypce",
+        "altra3": "Aleksandra Marko-Lech – altówka",
+        "altra4": "viola Michał Lech – wiolonczela"
     }
 }

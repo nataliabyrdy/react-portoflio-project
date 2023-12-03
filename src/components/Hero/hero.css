@@ -24,19 +24,25 @@
     font-weight: 200;
     margin-top: 100px;
     margin-bottom: 0;
+    font-family: "BellagiaDisplay";
 }
 
 .hero-h2{
     font-size: 60px;
-    font-weight: 200;
+    font-weight: 300;
     font-style: italic;
     margin-top: 20px;
-    border: 0.1px dotted #fff;
+    border: 1px dotted #9b793e;
     padding: 15px;
+    color: #9b793e;
 }
 
 .font-icon{
-    font-size: 20px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.insta{
     color: #fff;
 }
 
@@ -50,14 +56,14 @@
 }
 
 .icon-style{
-    font-size: 30px;
-    margin: 10px
+    font-size: 50px;
+    margin: 10px;
+    transition: 0.3s ease-in-out;
 }
 
 .icon-style:hover{
    color: #9b793e;
    cursor: pointer;
-   transition: color 0.3s ease-in-out;
 }
 
 .icon-style-btn{
